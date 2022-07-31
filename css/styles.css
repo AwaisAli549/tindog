@@ -1,0 +1,40 @@
+#title{
+  background: red;
+}
+h1{
+  font-family: "Montserrat-black";
+  font-weight:bolder;
+  font-size:15px;
+  line-height:1.5;
+  margin: 100px auto;
+  padding-left: 100px;
+  padding-top: 100px;
+}
+.buttons{
+  margin-top: 50px;
+  margin-left: 100px;
+}
+#features{
+  padding: 7% 18%;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+h3{
+  font-family: "Montserrat-Bold";
+}
+p{
+  color: #8f8f8f;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem
+}
+.icon:hover{
+  color: #ff4c68;
+}
+.title-image{
+  width: 40%;
+  transform:rotate(25deg);
+}
